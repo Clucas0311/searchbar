@@ -6,7 +6,7 @@ class SearchBar extends React.Component {
 			<div className="search bar ui segment">
 				<form className="ui form">
 					<div className="field">
-						<input type="text" />
+						<input type="text" placeholder="Search..." />
 					</div>
 				</form>
 			</div>
