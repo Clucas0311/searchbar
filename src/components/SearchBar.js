@@ -4,9 +4,9 @@ class SearchBar extends React.Component {
 	render() {
 		return (
 			<div className="search bar ui segment">
-				<form>
+				<form className="ui form">
 					<div className="field">
-						<input type="text" placeholder="Search..."></input>
+						<input type="text" />
 					</div>
 				</form>
 			</div>
